@@ -1,0 +1,7 @@
+baseurl = "http://ohnote.com/"
+languageCode = "en-us"
+title = "oh note!"
+
+[Params]
+  author = "David Miranda"
+  description = "imagilings, thoughters, and dreamies"
